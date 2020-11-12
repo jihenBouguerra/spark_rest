@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.062" timestamp="2020-11-12T12:03:52.298692" hostname="JBOUGUERRA"><testcase classname="test.api.test_rest_api.TestRestAPI" name="test_upper" time="0.001" /></testsuite></testsuites>
