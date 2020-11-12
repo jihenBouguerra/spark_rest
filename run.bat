@@ -1,1 +1,1 @@
-pytest -s --junitxml=test/out.xml
+unittest -s --junitxml=test/out.xml
