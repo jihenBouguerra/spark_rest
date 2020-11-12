@@ -1,1 +1,0 @@
-/usr/bin/python -m unittest discover -s test -p "t*.py"
